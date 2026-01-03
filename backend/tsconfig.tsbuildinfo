@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/db/Schema.ts","./src/middleware/Authmiddleware.ts","./src/middleware/Rolemiddleware.ts","./src/routes/attandance/route.ts","./src/routes/auth/signin.ts","./src/routes/auth/signup.ts","./src/routes/class/route.ts","./src/types/express.d.ts"],"version":"5.9.3"}
